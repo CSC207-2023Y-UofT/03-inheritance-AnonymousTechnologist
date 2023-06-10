@@ -43,6 +43,6 @@ public class CrossbodyBag extends Bag{
 
     @Override
     public String toString() {
-        return "CrossbodyBag with " + numberOfStraps + " straps";
+        return "Crossbody Bag with " + numberOfStraps + " straps";
     }
 }
